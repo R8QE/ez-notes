@@ -29,9 +29,6 @@ No installation is required. Simply download this html file and open `notes.html
 - **JavaScript** - For adding functionality like saving and deleting notes
 - **localStorage** - For storing notes persistently in the browser
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, improve the code, and submit a pull request.
 
